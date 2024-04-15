@@ -2,7 +2,7 @@
 - I’m a senior at Florida State University
 - I am majoring incomputer programming & applications and minoring in statistics.
 - I’m currently learning software engineering, mobile programming, dbms, and anova
-- I'm proficient in C++, Java, Python, SAS, and R, with some experience in HTML/CSS, XML, and SQL
+- I have experience in C++, Java, Python, SQL, SAS, and R, with some experience in HTML/CSS, XML
 
 <!---
 lognog2/lognog2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
