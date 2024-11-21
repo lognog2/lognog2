@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lognog2
-- I just graduated from Florida State University with a Bachelors' degree in computer programming & applications and a minor in statistics.
-- I have experience in C++, Java, Python, SQL, SAS, R, and HTML/CSS
-- Currently working on Matchup League 1.1
+- I graduated from Florida State University with a Bachelors' degree in computer programming & applications and a minor in statistics.
+- I have experience in C++, Java, Python, SQL, SAS, R, and Vue/Javascript
+- Currently working on Matchup League 1.2.0
 
 <!---
 lognog2/lognog2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
